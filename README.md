@@ -1,6 +1,6 @@
-# Data Science and Machine Learning Projects
+# Data Science, Machine Learning, and Data Analytics Projects
 
-Welcome to my personal repository of Data Science and Machine Learning projects! This space serves as a living portfolio of my learning journey, showcasing end-to-end workflows, hands-on experiments, and model building across various difficulty levels.
+Welcome to my personal repository of Data Science, Machine Learning, and Data Analytics projects! This space serves as a living portfolio of my learning journey, showcasing end-to-end workflows, hands-on experiments, interactive business intelligence dashboards, and model building across various difficulty levels.
 
 ## 🌱 Beginner Level
 
@@ -11,3 +11,10 @@ Welcome to my personal repository of Data Science and Machine Learning projects!
 ## 🎯 Intermediate Level
 
 ## 🚀 Advanced Level
+
+## 📊 Data Analysis & BI Dashboards
+
+* **[Health Analytics Dashboard](PowerBI%20Dashboards/README.md)**  
+  * **Objective:** Analyze how body metrics (height, weight, and BMI) vary across gender and age demographics to help design targeted fitness programs and flag high-risk segments.  
+  * **Highlights:** Features an interactive 2-page Power BI dashboard built on a 10,000-record dataset, utilizing Power Query for data transformation and custom DAX measures for dynamic insights.
+
