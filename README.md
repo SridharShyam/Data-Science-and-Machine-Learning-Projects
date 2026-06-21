@@ -1,6 +1,6 @@
 # Data Science, Machine Learning & Data Analytics Projects Portfolio
 
-Welcome to my personal repository of Data Science, Machine Learning, and Data Analytics projects! This space serves as a living portfolio of my learning journey, showcasing end-to-end workflows, hands-on experiments, interactive business intelligence dashboards, and model building across various difficulty levels.
+This repository brings together my work in Data Science, Machine Learning, and Data Analytics. The projects are organized by difficulty level and demonstrate my approach to solving real-world problems through data exploration, visualization, statistical analysis, predictive modeling, and business intelligence. Each project reflects a step in my continuous learning and practical application of data-driven techniques.
 
 ## 🌱 Beginner Level
 
