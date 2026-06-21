@@ -1,4 +1,4 @@
-# Data Science, Machine Learning, and Data Analytics Projects
+# Data Science, Machine Learning & Data Analytics Projects Portfolio
 
 Welcome to my personal repository of Data Science, Machine Learning, and Data Analytics projects! This space serves as a living portfolio of my learning journey, showcasing end-to-end workflows, hands-on experiments, interactive business intelligence dashboards, and model building across various difficulty levels.
 
