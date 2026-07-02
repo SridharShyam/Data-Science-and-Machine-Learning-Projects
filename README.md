@@ -12,6 +12,10 @@ This repository brings together my work in Data Science, Machine Learning, and D
   * **Objective:** Perform Exploratory Data Analysis (EDA) on the Netflix dataset to uncover insights regarding content types, regional distributions, genre popularity, and other key trends.  
   * **Highlights:** Covers data cleaning, feature engineering, and data visualization using Pandas, NumPy, Matplotlib, and Seaborn.
 
+* **[AirPassengers Time Series Forecasting](Beginner_Level/AirPassengers_Time_Series_Forecasting/README.md)**  
+  * **Objective:** Apply classical time series analysis and forecasting techniques to identify demand trends and seasonal cycles in international airline passenger numbers.  
+  * **Highlights:** Covers data exploration, time series decomposition, stationarity testing, and the building and evaluation of various forecasting models (AR, MA, Exponential Smoothing, ARIMA, SARIMA).
+
 ## 🎯 Intermediate Level
 
 * **[Hybrid Movie Recommendation Engine](Intermediate_Level/Movie_Recommendation_Engine/README.md)**  
